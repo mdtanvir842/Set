@@ -3,8 +3,8 @@ C++ STL (standard template library)
 
 	#include<bits/stdc++.h>
 	using namespace std;
-int main()
-{
+	int main()
+	{
     /// Declaration of set of integers
 	set<int> s = { 1, 1, 2, 1, 3 };
 
