@@ -5,6 +5,7 @@ int main(){
     cout<<*st.begin()<<endl;//first element
     cout<<*++st.begin()<<endl;//second element
     cout<<*--st.end()<<endl;//last element
+    cout<<*st.rbegin()<<endl;//last element
     //cout<<*++++st.begin()<<endl;//third element    
     //cout<<*----st.end()<<endl;//before last element
 }
