@@ -1,9 +1,8 @@
 # Set
 
+
 #include<bits/stdc++.h>
 using namespace std;
-
-
 int main()
 {
     /// Declaration of set of integers
