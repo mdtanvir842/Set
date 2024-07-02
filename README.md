@@ -2,7 +2,7 @@
 C++ STL (standard template library)
 
 	#include<bits/stdc++.h>
-using namespace std;
+	using namespace std;
 int main()
 {
     /// Declaration of set of integers
