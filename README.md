@@ -1,13 +1,4 @@
 # Set
-C++ STL (standard template library)
-pastebin
-Paste from Md. Maruf Sarker 02 November 2023 18:33 +0000
-Syntax highlighting: cpp
-
-View raw Copy to clipboard
-///   ***   ---   |||		 In the name of ALLAH		|||   ---   ***   ///
-
-
 
 #include<bits/stdc++.h>
 using namespace std;
